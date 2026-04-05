@@ -14,4 +14,7 @@ TODO: Copy Aberration mod files into P2:CE dir
 
 ## Licensing
 Aberration maps and materials are licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
-Aberration uses assets from the Portal Mapping and Modding community. These assets are not covered by the CC BY 4.0 license. A full list of all third-party assets used can be found TODO: create credits file/add link.
+
+Aberration uses assets from the Portal Mapping and Modding community. These assets are not covered by the CC BY 4.0 license. A full list of all third-party assets used can be found here.
+
+TODO: create credits file/add link.
