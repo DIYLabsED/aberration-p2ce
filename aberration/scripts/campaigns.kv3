@@ -1,0 +1,49 @@
+// Campaign config file adapted from https://wiki.stratasource.org/modding/p2ce-campaigns/script-reference
+
+{
+
+	meta = {
+		author = "DIY Labs"
+	}
+
+	campaigns = {
+
+		"aberration_main_campaign" = {
+
+			title = "Aberration"
+			unlock_all = false
+			meta = {
+				desc = "Mainline campaign of Aberration"
+				box_art = ""
+				selector_cover = ""
+				selector_button_background = ""
+				square_logo = ""
+				full_logo = ""
+				chapter_display_mode = "list"
+				loading_square_logo_padding = "0"
+			}
+			chapters = [
+				// copy the below block for every chapter that should be a part of this campaign
+				{
+					title = "Campaign 1 Chapter 1 Title"
+					save_comment = ""
+					maps = [
+						// copy the below line for every map that should belong in this chapter
+						{name="campaign_1_map" meta={ title="Map 1 Title" img="" }},
+					]
+					meta = {
+						thumbnail = ""
+						background_map = ""
+						background_movie = ""
+						background_music = ""
+						loading_screen = ""
+						transition_screen = ""
+					}
+				}
+			]
+
+		}
+
+	}
+
+}
