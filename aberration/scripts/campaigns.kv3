@@ -14,12 +14,13 @@
 			unlock_all = false
 			meta = {
 				desc = "Mainline campaign of Aberration"
-				box_art = ""
-				selector_cover = ""
-				selector_button_background = ""
+				box_art = "menu-imgs/box-art.png"
+				selector_cover = "menu-imgs/selector-cover.png"
+				selector_button_background = "menu-imgs/selector-button-background.png"
 				square_logo = ""
-				full_logo = ""
-				chapter_display_mode = "list"
+				// TODO: debug why P2:CE does not display SVG full_logo, tried Inkscape SVG and regular SVG
+				full_logo = "menu-imgs/full-logo.png"
+				chapter_display_mode = "classic"
 				loading_square_logo_padding = "0"
 			}
 			chapters = [
@@ -31,11 +32,12 @@
 						// copy the below line for every map that should belong in this chapter
 						{name="campaign_1_map" meta={ title="Map 1 Title" img="" }},
 					]
-					meta = {
+					meta = {	
 						thumbnail = ""
 						background_map = ""
 						background_movie = ""
 						background_music = ""
+						background_image = "menu-imgs/background-img.png"
 						loading_screen = ""
 						transition_screen = ""
 					}
