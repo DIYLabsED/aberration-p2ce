@@ -1,0 +1,21 @@
+{
+	mod = "Aberration"
+	description = """
+A small campaign set in an unused, abandoned Aperture facility
+"""
+	type = "Campaign"
+	id = 0
+	thumbnail = ""
+	authors = [ "DIY Labs", "Yoyo"  ]
+	dependencies = [  ]
+	tags = [  ]
+	ignore = [  ]
+	metadata =
+	{
+	}
+	assets =
+	{
+		logo = ""
+		cover = ""
+	}
+}
