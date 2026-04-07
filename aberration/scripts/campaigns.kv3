@@ -34,7 +34,7 @@
 					]
 					meta = {	
 						thumbnail = ""
-						background_map = ""
+						background_map = "ab_menu_background_dev"
 						background_movie = ""
 						background_music = ""
 						background_image = "menu-imgs/background-img.png"
