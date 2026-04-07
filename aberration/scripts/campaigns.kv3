@@ -18,7 +18,7 @@
 				selector_cover = "menu-imgs/selector-cover.png"
 				selector_button_background = "menu-imgs/selector-button-background.png"
 				square_logo = ""
-				// TODO: debug why P2:CE does not display SVG full_logo, tried Inkscape SVG and regular SVG
+				// TODO: debug why P2:CE does not display SVG full_logo, tried Inkscape SVG, exporting as regular SVG, running through SVGO with an aggresive profile
 				full_logo = "menu-imgs/full-logo.png"
 				chapter_display_mode = "classic"
 				loading_square_logo_padding = "0"
