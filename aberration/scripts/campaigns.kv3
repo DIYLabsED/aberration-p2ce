@@ -24,17 +24,50 @@
 				loading_square_logo_padding = "0"
 			}
 			chapters = [
-				// copy the below block for every chapter that should be a part of this campaign
+
 				{
-					title = "Campaign 1 Chapter 1 Title"
+					title = "Train Ride"
 					save_comment = ""
 					maps = [
-						// copy the below line for every map that should belong in this chapter
+						{name="ab_0_0_train_ride" meta={ title="Now darling, where do we go from here?" img="" }},
+					]
+					meta = {	
+						thumbnail = ""
+						background_map = ""
+						background_movie = ""
+						background_music = ""
+						background_image = "menu-imgs/background-img.png"
+						loading_screen = ""
+						transition_screen = ""
+					}
+				},
+
+				{
+					title = "Cold Machines"
+					save_comment = ""
+					maps = [
 						{name="campaign_1_map" meta={ title="Map 1 Title" img="" }},
 					]
 					meta = {	
 						thumbnail = ""
-						background_map = "ab_menu_background_dev"
+						background_map = ""
+						background_movie = ""
+						background_music = ""
+						background_image = "menu-imgs/background-img.png"
+						loading_screen = ""
+						transition_screen = ""
+					}
+				},
+
+				{
+					title = "Decay"
+					save_comment = ""
+					maps = [
+						{name="campaign_1_map" meta={ title="Map 1 Title" img="" }},
+					]
+					meta = {	
+						thumbnail = ""
+						background_map = ""
 						background_movie = ""
 						background_music = ""
 						background_image = "menu-imgs/background-img.png"
@@ -42,6 +75,7 @@
 						transition_screen = ""
 					}
 				}
+
 			]
 
 		}

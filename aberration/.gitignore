@@ -1,0 +1,4 @@
+# Ignore compiler intermediate files
+*.log
+*.prt
+*.vmx
