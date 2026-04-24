@@ -1,21 +1,23 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
 {
 	mod = "Aberration"
-	description = """
-A small campaign set in an unused, abandoned Aperture facility
-"""
+	description = "A small campaign set in an unused Aperture facility."
 	type = "Campaign"
-	id = 0
-	thumbnail = ""
-	authors = [ "DIY Labs", "Yoyo"  ]
+	id = 3712579002
+	thumbnail = ".assets/emo_nere_diy_labs_birthday-profile.png"
+	authors = [  ]
 	dependencies = [  ]
-	tags = [  ]
+	tags = 
+	[
+		"Singleplayer",
+		"Medium (4-7 maps)",
+	]
 	ignore = [  ]
-	metadata =
+	metadata = 
 	{
 	}
-	assets =
+	assets = 
 	{
-		logo = ""
-		cover = ""
 	}
+	mounted_by_default = true
 }
