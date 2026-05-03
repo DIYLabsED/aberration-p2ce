@@ -3,7 +3,7 @@ versioninfo
 	"editorextension" "strata"
 	"editorversion" "400"
 	"editorbuild" "10773"
-	"mapversion" "232"
+	"mapversion" "234"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -21,7 +21,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "1"
-	"nGridSpacing" "4"
+	"nGridSpacing" "32"
 	"bShow3DGrid" "0"
 	"nInstanceVisibility" "2"
 	views
@@ -29,33 +29,33 @@ viewsettings
 		v0
 		{
 			"3d" "1"
-			"position" "(69.6533 -490.195 195.922)"
-			"angle" "[-4.39997 -80.4027 0]"
+			"position" "(247.074 -683.843 201.171)"
+			"angle" "[-0.39997 -91.6026 0]"
 		}
 		v1
 		{
 			"3d" "0"
-			"position" "(-31.5786 -696.098 65536)"
-			"zoom" "1.85751"
+			"position" "(-31.5786 -696.098 0)"
+			"zoom" "2.01135"
 		}
 		v2
 		{
 			"3d" "0"
-			"position" "(65536 -718.151 71.027)"
-			"zoom" "5.36711"
+			"position" "(65536 -725.133 149.473)"
+			"zoom" "2.01135"
 		}
 		v3
 		{
 			"3d" "0"
-			"position" "(-5.71374 -65536 70.3569)"
-			"zoom" "4.17073"
+			"position" "(246.009 -65536 187.569)"
+			"zoom" "2.41362"
 		}
 	}
 }
 world
 {
 	"id" "1"
-	"mapversion" "232"
+	"mapversion" "234"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -10796,6 +10796,36 @@ world
 }
 entity
 {
+	"id" "4581"
+	"classname" "info_overlay"
+	"angles" "0 0 0"
+	"BasisNormal" "0 1 0"
+	"BasisOrigin" "256 -760 192"
+	"BasisU" "1 -0 0"
+	"BasisV" "0 0 -1"
+	"endu" "0"
+	"endv" "1"
+	"fademindist" "-1"
+	"material" "extras/dev-signature"
+	"sides" "381"
+	"startu" "1"
+	"startv" "0"
+	"tint" "255 255 255 255"
+	"uv0" "-32 -32 0"
+	"uv1" "-32 32 0"
+	"uv2" "32 32 0"
+	"uv3" "32 -32 0"
+	"origin" "256 -760 192"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
 	"id" "4247"
 	"classname" "info_overlay"
 	"angles" "0 0 0"
@@ -10848,7 +10878,7 @@ entity
 	"origin" "384 -64 192"
 	editor
 	{
-		"color" "0 245 234"
+		"color" "80 150 225"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -10912,7 +10942,7 @@ entity
 	"origin" "384 -448 192"
 	editor
 	{
-		"color" "0 165 118"
+		"color" "80 150 225"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1500]"
