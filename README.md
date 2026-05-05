@@ -126,3 +126,26 @@ Aberration uses assets from the Portal Mapping and Modding community. These asse
 ```
 
 </details>
+
+<br>
+
+### lenship2
+#### [Refracting Frosted Glass](https://discord.com/channels/830239808596606976/1352738033958522880/1352738033958522880)
+
+<details>
+<summary> File list </summary>
+
+```
+/materials/glass/refracting_frosted_glass/frosted_glass_blue_l2.vmt
+/materials/glass/refracting_frosted_glass/frosted_glass_clean_l2.vmt
+/materials/glass/refracting_frosted_glass/frosted_glass_dirty_l2.vmt
+/materials/glass/refracting_frosted_glass/frosted_glass_dirty_l2_mask.vtf
+/materials/glass/refracting_frosted_glass/frosted_glass_dirty_refract_l2.vmt
+/materials/glass/refracting_frosted_glass/frosted_glass_l2.vtf
+/materials/glass/refracting_frosted_glass/frosted_glass_l2_mask.vtf
+/materials/glass/refracting_frosted_glass/frosted_glass_refract_blue_l2.vmt
+/materials/glass/refracting_frosted_glass/frosted_glass_refract_clean_l2.vmt
+/materials/glass/refracting_frosted_glass/frosted_glass_refract_l2.vtf
+```
+
+</details>
