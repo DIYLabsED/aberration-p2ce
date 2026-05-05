@@ -32,22 +32,22 @@ Aberration uses assets from the Portal Mapping and Modding community. These asse
 <details>
 <summary> File list </summary>
 
-`/materials/overlays/garagegroundmarking01f_clean.vmt`
-`/materials/overlays/garagegroundmarking01f_clean.vtf`
-`/materials/overlays/garagegroundmarking01f_clean_edge_L.vmt`
-`/materials/overlays/garagegroundmarking01f_clean_edge_L.vtf`
-`/materials/overlays/garagegroundmarking01f_clean_edge_multipurpose_L.vmt`
-`/materials/overlays/garagegroundmarking01f_clean_edge_multipurpose_L.vtf`
-`/materials/overlays/garagegroundmarking01f_clean_edge_multipurpose_R.vmt`
-`/materials/overlays/garagegroundmarking01f_clean_edge_multipurpose_R.vtf`
-`/materials/overlays/garagegroundmarking01f_clean_edge_R.vmt`
-`/materials/overlays/garagegroundmarking01f_clean_edge_R.vtf`
-`/materials/overlays/garagegroundmarking01f_clean_middle.vmt`
-`/materials/overlays/garagegroundmarking01f_clean_middle.vtf`
-`/materials/overlays/garagegroundmarking01f_clean_middle_multipurpose.vmt`
-`/materials/overlays/garagegroundmarking01f_clean_middle_multipurpose.vtf`
-`/materials/overlays/garagegroundmarking01f_clean_multipurpose.vmt`
-`/materials/overlays/garagegroundmarking01f_clean_multipurpose.vtf`
+/materials/overlays/garagegroundmarking01f_clean.vmt
+/materials/overlays/garagegroundmarking01f_clean.vtf
+/materials/overlays/garagegroundmarking01f_clean_edge_L.vmt
+/materials/overlays/garagegroundmarking01f_clean_edge_L.vtf
+/materials/overlays/garagegroundmarking01f_clean_edge_multipurpose_L.vmt
+/materials/overlays/garagegroundmarking01f_clean_edge_multipurpose_L.vtf
+/materials/overlays/garagegroundmarking01f_clean_edge_multipurpose_R.vmt
+/materials/overlays/garagegroundmarking01f_clean_edge_multipurpose_R.vtf
+/materials/overlays/garagegroundmarking01f_clean_edge_R.vmt
+/materials/overlays/garagegroundmarking01f_clean_edge_R.vtf
+/materials/overlays/garagegroundmarking01f_clean_middle.vmt
+/materials/overlays/garagegroundmarking01f_clean_middle.vtf
+/materials/overlays/garagegroundmarking01f_clean_middle_multipurpose.vmt
+/materials/overlays/garagegroundmarking01f_clean_middle_multipurpose.vtf
+/materials/overlays/garagegroundmarking01f_clean_multipurpose.vmt
+/materials/overlays/garagegroundmarking01f_clean_multipurpose.vtf
 
 </details>
 
@@ -58,38 +58,41 @@ Aberration uses assets from the Portal Mapping and Modding community. These asse
 <details>
 <summary> File list </summary>
 
-`/materials/models/props_aperturelabs/cola.vmt`
-`/materials/models/props_aperturelabs/cola.vtf`
-`/materials/models/props_aperturelabs/colacan.vmt`
-`/materials/models/props_aperturelabs/colacan.vtf`
-`/materials/models/props_aperturelabs/colamachine.vmt`
-`/materials/models/props_aperturelabs/colamachine.vtf`
-`/materials/models/props_aperturelabs/vending_machine_ref.vtf`
-`/materials/colaads/cola_advertisement1.vmt`
-`/materials/colaads/cola_advertisement1.vtf`
-`/materials/colaads/cola_advertisement2.vmt`
-`/materials/colaads/cola_advertisement2.vtf`
-`/materials/colaads/cola_advertisement3.vmt`
-`/materials/colaads/cola_advertisement3.vtf`
-
-`/models/props_aperturelabs/barrel_cola.dx80.vtx`
-`/models/props_aperturelabs/barrel_cola.dx90.vtx`
-`/models/props_aperturelabs/barrel_cola.mdl`
-`/models/props_aperturelabs/barrel_cola.phy`
-`/models/props_aperturelabs/barrel_cola.sw.vtx`
-`/models/props_aperturelabs/barrel_cola.vvd`
-`/models/props_aperturelabs/colacan.dx80.vtx`
-`/models/props_aperturelabs/colacan.dx90.vtx`
-`/models/props_aperturelabs/colacan.mdl`
-`/models/props_aperturelabs/colacan.phy`
-`/models/props_aperturelabs/colacan.sw.vtx`
-`/models/props_aperturelabs/colacan.vvd`
-`/models/props_aperturelabs/colamachine.dx80.vtx`
-`/models/props_aperturelabs/colamachine.dx90.vtx`
-`/models/props_aperturelabs/colamachine.mdl`
-`/models/props_aperturelabs/colamachine.phy`
-`/models/props_aperturelabs/colamachine.sw.vtx`
-`/models/props_aperturelabs/colamachine.vvd`
+```
+/materials/models/props_aperturelabs/cola.vmt
+/materials/models/props_aperturelabs/cola.vtf
+/materials/models/props_aperturelabs/colacan.vmt
+/materials/models/props_aperturelabs/colacan.vtf
+/materials/models/props_aperturelabs/colamachine.vmt
+/materials/models/props_aperturelabs/colamachine.vtf
+/materials/models/props_aperturelabs/vending_machine_ref.vtf
+/materials/colaads/cola_advertisement1.vmt
+/materials/colaads/cola_advertisement1.vtf
+/materials/colaads/cola_advertisement2.vmt
+/materials/colaads/cola_advertisement2.vtf
+/materials/colaads/cola_advertisement3.vmt
+/materials/colaads/cola_advertisement3.vtf
+```
+```
+/models/props_aperturelabs/barrel_cola.dx80.vtx
+/models/props_aperturelabs/barrel_cola.dx90.vtx
+/models/props_aperturelabs/barrel_cola.mdl
+/models/props_aperturelabs/barrel_cola.phy
+/models/props_aperturelabs/barrel_cola.sw.vtx
+/models/props_aperturelabs/barrel_cola.vvd
+/models/props_aperturelabs/colacan.dx80.vtx
+/models/props_aperturelabs/colacan.dx90.vtx
+/models/props_aperturelabs/colacan.mdl
+/models/props_aperturelabs/colacan.phy
+/models/props_aperturelabs/colacan.sw.vtx
+/models/props_aperturelabs/colacan.vvd
+/models/props_aperturelabs/colamachine.dx80.vtx
+/models/props_aperturelabs/colamachine.dx90.vtx
+/models/props_aperturelabs/colamachine.mdl
+/models/props_aperturelabs/colamachine.phy
+/models/props_aperturelabs/colamachine.sw.vtx
+/models/props_aperturelabs/colamachine.vvd
+```
 
 </details>
 
@@ -103,18 +106,18 @@ Aberration uses assets from the Portal Mapping and Modding community. These asse
 
 *Note: the only asset used is the speaker system, other unused assets have been removed.*
 
-`/materials/models/max/speaker_system/speaker_system01.vmt`
-`/materials/models/max/speaker_system/speaker_system01.vtf`
-`/materials/models/max/speaker_system/speaker_system01_check.vmt`
-`/materials/models/max/speaker_system/speaker_system01_check.vtf`
-`/materials/models/max/speaker_system/speaker_system01_cross.vmt`
-`/materials/models/max/speaker_system/speaker_system01_cross.vtf`
-`/materials/models/max/speaker_system/speaker_system01_warning.vmt`
-`/materials/models/max/speaker_system/speaker_system01_warning.vtf`
+/materials/models/max/speaker_system/speaker_system01.vmt
+/materials/models/max/speaker_system/speaker_system01.vtf
+/materials/models/max/speaker_system/speaker_system01_check.vmt
+/materials/models/max/speaker_system/speaker_system01_check.vtf
+/materials/models/max/speaker_system/speaker_system01_cross.vmt
+/materials/models/max/speaker_system/speaker_system01_cross.vtf
+/materials/models/max/speaker_system/speaker_system01_warning.vmt
+/materials/models/max/speaker_system/speaker_system01_warning.vtf
 
-`/models/max/speaker_system/speaker_system01.dx90.vtx`
-`/models/max/speaker_system/speaker_system01.mdl`
-`/models/max/speaker_system/speaker_system01.phy`
-`/models/max/speaker_system/speaker_system01.vvd`
+/models/max/speaker_system/speaker_system01.dx90.vtx
+/models/max/speaker_system/speaker_system01.mdl
+/models/max/speaker_system/speaker_system01.phy
+/models/max/speaker_system/speaker_system01.vvd
 
 </details>
