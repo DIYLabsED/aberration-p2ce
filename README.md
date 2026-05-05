@@ -32,6 +32,7 @@ Aberration uses assets from the Portal Mapping and Modding community. These asse
 <details>
 <summary> File list </summary>
 
+```
 /materials/overlays/garagegroundmarking01f_clean.vmt
 /materials/overlays/garagegroundmarking01f_clean.vtf
 /materials/overlays/garagegroundmarking01f_clean_edge_L.vmt
@@ -48,6 +49,7 @@ Aberration uses assets from the Portal Mapping and Modding community. These asse
 /materials/overlays/garagegroundmarking01f_clean_middle_multipurpose.vtf
 /materials/overlays/garagegroundmarking01f_clean_multipurpose.vmt
 /materials/overlays/garagegroundmarking01f_clean_multipurpose.vtf
+```
 
 </details>
 
@@ -106,6 +108,7 @@ Aberration uses assets from the Portal Mapping and Modding community. These asse
 
 *Note: the only asset used is the speaker system, other unused assets have been removed.*
 
+```
 /materials/models/max/speaker_system/speaker_system01.vmt
 /materials/models/max/speaker_system/speaker_system01.vtf
 /materials/models/max/speaker_system/speaker_system01_check.vmt
@@ -114,10 +117,12 @@ Aberration uses assets from the Portal Mapping and Modding community. These asse
 /materials/models/max/speaker_system/speaker_system01_cross.vtf
 /materials/models/max/speaker_system/speaker_system01_warning.vmt
 /materials/models/max/speaker_system/speaker_system01_warning.vtf
-
+```
+```
 /models/max/speaker_system/speaker_system01.dx90.vtx
 /models/max/speaker_system/speaker_system01.mdl
 /models/max/speaker_system/speaker_system01.phy
 /models/max/speaker_system/speaker_system01.vvd
+```
 
 </details>
