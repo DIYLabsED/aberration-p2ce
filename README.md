@@ -24,8 +24,8 @@ Aberration maps and materials are licensed under the [CC BY 4.0](https://creativ
 
 <br>
 
-## Third-party assets used
-Aberration uses assets from the Portal Mapping and Modding community. These assets are not covered by the CC BY 4.0 license. Most asset links link to posts in the `#custom-assets` channel in the PMaM Discord server. You may need to [join the server](https://discord.com/invite/pmam) and [head to the channel](https://discord.com/channels/830239808596606976/1352655119006699570) to view them.
+## Third-party assets redistributed with Aberration
+Aberration uses certain assets from the Portal Mapping and Modding community, and includes them in this repository. These assets are not covered by the CC BY 4.0 license. Most asset links link to posts in the `#custom-assets` channel in the PMaM Discord server. You may need to [join the server](https://discord.com/invite/pmam) and [head to the channel](https://discord.com/channels/830239808596606976/1352655119006699570) to view them.
 
 ### FiffleSniffle
 #### [Clean Garage Ground Marking Overlay](https://fifflesniffle.xyz/wp-content/uploads/2025/07/clean_garagegroundmarking_v2.zip)
@@ -149,3 +149,6 @@ Aberration uses assets from the Portal Mapping and Modding community. These asse
 ```
 
 </details>
+
+## Dependencies
+Aberration uses [EverythingPBR](https://steamcommunity.com/sharedfiles/filedetails/?id=3594428478) by `lenship2` and `Hazel Rose`. EverythingPBR is marked as a dependency of Aberration. However, if Steam does not prompt you to also subscribe to it, subscribe to it yourself.
