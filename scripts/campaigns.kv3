@@ -36,7 +36,7 @@
 						background_map = ""
 						background_movie = ""
 						background_music = ""
-						background_image = "menu-imgs/background-img.png"
+						background_image = "menu-imgs/train-ride-cover.png"
 						loading_screen = ""
 						transition_screen = ""
 					}

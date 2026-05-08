@@ -4,7 +4,7 @@
 	description = "A small campaign set in an unused Aperture facility."
 	type = "Campaign"
 	id = 3712579002
-	thumbnail = ".assets/emo_nere_diy_labs_birthday-profile.png"
+	thumbnail = ".assets/workshop/cover.png"
 	authors = [  ]
 	dependencies = [  ]
 	tags = 
