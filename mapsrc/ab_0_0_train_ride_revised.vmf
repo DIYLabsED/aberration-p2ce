@@ -29,25 +29,25 @@ viewsettings
 		v0
 		{
 			"3d" "1"
-			"position" "(233.638 -466.841 271.682)"
-			"angle" "[-13.2 -102.011 0]"
+			"position" "(240.754 -281.128 209.325)"
+			"angle" "[9.2 -0.410995 0]"
 		}
 		v1
 		{
 			"3d" "0"
-			"position" "(237.885 -498.231 65536)"
+			"position" "(237.885 -498.231 0)"
 			"zoom" "3.7827"
 		}
 		v2
 		{
 			"3d" "0"
-			"position" "(65536 -641.714 182.417)"
+			"position" "(0 -641.714 182.417)"
 			"zoom" "0.50163"
 		}
 		v3
 		{
 			"3d" "0"
-			"position" "(226.105 -65536 277.18)"
+			"position" "(226.105 0 277.18)"
 			"zoom" "16.026"
 		}
 	}
@@ -12190,7 +12190,7 @@ entity
 	"origin" "-224 -576 223.75"
 	editor
 	{
-		"color" "0 221 222"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -12232,7 +12232,7 @@ entity
 	"origin" "-224 -576 208"
 	editor
 	{
-		"color" "0 199 156"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
