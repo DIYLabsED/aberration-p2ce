@@ -1,0 +1,6 @@
+lightmappedgeneric
+{
+$basetexture "overlays/aperture_logo_tintable_2_color"
+$translucent 1
+$decal 1
+}

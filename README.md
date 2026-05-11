@@ -150,5 +150,52 @@ Aberration uses certain assets from the Portal Mapping and Modding community, an
 
 </details>
 
+<br>
+
+### PMaM Community
+#### [PMaM Branding Assets](https://discord.com/channels/830239808596606976/1353098276487827526/1353098276487827526)
+
+<details>
+<summary> File list </summary>
+
+```
+/materials/models/pmam/pmam_doll_yarn.vtf
+/materials/models/pmam/pmam_doll_yarn.vmt
+
+/materials/pmam/chair_pmam_logo_overlay.vmt
+/materials/pmam/chair_pmam_logo_overlay.vtf
+/materials/pmam/poster_pmam_polydot_overlay.vmt
+/materials/pmam/poster_pmam_polydot_overlay.vtf
+/materials/pmam/poster_pmam_trpb_overlay.vmt
+/materials/pmam/poster_pmam_trpb_overlay.vtf
+/materials/pmam/poster_pmam_war_overlay.vmt
+/materials/pmam/poster_pmam_war_overlay.vtf
+/materials/pmam/stencil_pmam_logo_overlay.vmt
+/materials/pmam/stencil_pmam_logo_overlay.vtf
+/materials/pmam/text_pmam_logo_overlay.vmt
+/materials/pmam/text_pmam_logo_overlay.vtf
+```
+
+</details>
+
+<br>
+
+### lenship2
+#### [Tintable Aperture Overlay](https://discord.com/channels/830239808596606976/1472491653750067291/1472491653750067291)
+
+<details>
+<summary> File list </summary>
+
+```
+/materials/overlays/aperture_logo_tintable.vmt
+/materials/overlays/aperture_logo_tintable_2.vmt
+/materials/overlays/aperture_logo_tintable_2_color.vtf
+/materials/overlays/aperture_logo_tintable_color.vtf
+```
+
+</details>
+
+<br>
+
 ## Dependencies
 Aberration uses [EverythingPBR](https://steamcommunity.com/sharedfiles/filedetails/?id=3594428478) by `lenship2` and `Hazel Rose`. EverythingPBR is marked as a dependency of Aberration. However, if Steam does not prompt you to also subscribe to it, subscribe to it yourself.
