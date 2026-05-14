@@ -9,11 +9,11 @@
    id="svg1"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="station-signs.svg"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview1"
      pagecolor="#505050"
      bordercolor="#eeeeee"
@@ -23,23 +23,20 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.52221045"
-     inkscape:cx="667.35547"
-     inkscape:cy="778.4218"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1132.785"
+     inkscape:cy="834.73953"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     showgrid="false" />
-  <defs
-     id="defs1" />
-  <g
+     showgrid="false" /><defs
+     id="defs1" /><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <text
+     id="layer1"><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Station;-inkscape-font-specification:Station;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
        x="259.80872"
@@ -49,8 +46,7 @@
          id="tspan9"
          style="stroke-width:4"
          x="259.80872"
-         y="59.065777">platform 1</tspan></text>
-    <text
+         y="59.065777">platform 1</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Station;-inkscape-font-specification:Station;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
        x="259.80872"
@@ -60,8 +56,7 @@
          id="tspan9-3"
          style="stroke-width:4"
          x="259.80872"
-         y="93.839355">exit</tspan></text>
-    <text
+         y="93.839355">exit</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Station;-inkscape-font-specification:Station;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
        x="324.27582"
@@ -76,8 +71,7 @@
          style="stroke-width:4"
          x="265.87317"
          y="157.96452"
-         id="tspan12">entrance</tspan></text>
-    <text
+         id="tspan12">entrance</tspan></text><text
        xml:space="preserve"
        style="font-size:25.4px;font-family:Station;-inkscape-font-specification:Station;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#ffffff;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:round"
        x="264.73001"
@@ -87,62 +81,75 @@
          id="tspan3"
          style="stroke-width:1.1"
          x="264.73001"
-         y="206.97075" /></text>
-    <g
+         y="206.97075" /></text><rect
+       style="fill:#caba33;stroke-width:2.4;paint-order:markers fill stroke;fill-opacity:1"
+       id="rect3"
+       width="32.243668"
+       height="32.243668"
+       x="257.94934"
+       y="0" /><g
+       id="g5"><rect
+         style="fill:#caba33;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1-2"
+         width="59"
+         height="12"
+         x="253.62572"
+         y="200.88519"
+         ry="2"
+         rx="2" /><rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1-2-5"
+         width="57"
+         height="10"
+         x="254.62572"
+         y="201.88519"
+         ry="1"
+         rx="1" /><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.82083px;font-family:Univers;-inkscape-font-specification:'Univers Bold';writing-mode:lr-tb;direction:ltr;fill:#caba33;fill-opacity:1;stroke-width:2.4;paint-order:markers fill stroke"
+         x="255.90594"
+         y="208.97989"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="fill:#caba33;fill-opacity:1;stroke-width:2.4"
+           x="255.90594"
+           y="208.97989">STATION CONTROL</tspan></text></g><g
        id="g6"
        inkscape:export-filename="sign-station-control.png"
-       inkscape:export-xdpi="440.84079"
-       inkscape:export-ydpi="440.84079">
-      <g
-         id="g5">
-        <g
-           id="g3">
-          <g
-             id="g2">
-            <g
-               id="g4"
-               inkscape:export-filename="sign-station-control.png"
-               inkscape:export-xdpi="440.84079"
-               inkscape:export-ydpi="440.84079"
-               transform="translate(-1.7755432,5)">
-              <rect
-                 style="fill:#ffffff;stroke:none;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect1"
-                 width="59"
-                 height="12"
-                 x="267.24841"
-                 y="215.40559" />
-              <rect
-                 style="fill:#000000;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;paint-order:markers fill stroke"
-                 id="rect1-8"
-                 width="57"
-                 height="10"
-                 x="268.24841"
-                 y="216.40559"
-                 rx="2"
-                 ry="2" />
-              <text
-                 xml:space="preserve"
-                 style="font-size:6.08542px;font-family:Station;-inkscape-font-specification:Station;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:none;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:round"
-                 x="269.77109"
-                 y="223.43506"
-                 id="text4"><tspan
-                   sodipodi:role="line"
-                   id="tspan4"
-                   style="font-size:6.08542px;stroke:none;stroke-width:1.1"
-                   x="269.77109"
-                   y="223.43506">STATION CONTROL</tspan></text>
-            </g>
-            <rect
-               style="fill:none;stroke:none;stroke-width:0;paint-order:markers fill stroke"
-               id="rect2"
-               width="59"
-               height="59"
-               x="265.47287"
-               y="196.90559" />
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
-</svg>
+       inkscape:export-xdpi="1763.3632"
+       inkscape:export-ydpi="1763.3632"><g
+         id="g5-3"
+         transform="translate(65.46178,11.83981)"><rect
+           style="fill:#caba33;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:round"
+           id="rect1-2-4"
+           width="59"
+           height="12"
+           x="253.62572"
+           y="200.88519"
+           ry="2"
+           rx="2" /><rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:round"
+           id="rect1-2-5-1"
+           width="57"
+           height="10"
+           x="254.62572"
+           y="201.88519"
+           ry="1"
+           rx="1" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.82083px;font-family:Univers;-inkscape-font-specification:'Univers Bold';writing-mode:lr-tb;direction:ltr;fill:#caba33;fill-opacity:1;stroke-width:2.4;paint-order:markers fill stroke"
+           x="255.90594"
+           y="208.97989"
+           id="text4-1"><tspan
+             sodipodi:role="line"
+             id="tspan4-3"
+             style="fill:#caba33;fill-opacity:1;stroke-width:2.4"
+             x="255.90594"
+             y="208.97989">STATION CONTROL</tspan></text></g><rect
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:5.61216;paint-order:markers fill stroke"
+         id="rect5"
+         width="59"
+         height="59"
+         x="319.08749"
+         y="189.22501" /></g></g></svg>
