@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ab_assets/signs/sign-station-control"
+	"$translucent" 1
+}

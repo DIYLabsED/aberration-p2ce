@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="train-station-layout.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.73851712"
+     inkscape:cx="238.99243"
+     inkscape:cy="-1893.6596"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.49671;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1"
+       width="67.73333"
+       height="135.46666"
+       x="-29.301628"
+       y="-558.13354" />
+    <g
+       id="g1">
+      <circle
+         style="fill:#f0f0f0;fill-opacity:1;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round"
+         id="path1"
+         cx="38.431702"
+         cy="-490.40021"
+         r="67.73333" />
+      <circle
+         style="fill:#333333;stroke:none;stroke-width:3.19332;stroke-linecap:round;stroke-linejoin:round"
+         id="path1-8"
+         cx="38.431702"
+         cy="-490.40021"
+         r="51.093117" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g7"
+       transform="translate(1.7794801e-7,-0.29315756)">
+      <g
+         id="g6"
+         transform="translate(-33.866669)">
+        <rect
+           style="fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round"
+           id="rect4-2"
+           width="33.866665"
+           height="50.799999"
+           x="55.365036"
+           y="-507.33353" />
+        <path
+           style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round"
+           d="m 55.365038,-507.33351 8.466669,-16.93333 h 16.933331 l 8.466666,16.93333 z"
+           id="path6" />
+      </g>
+      <rect
+         style="fill:#aad400;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round"
+         id="rect6"
+         width="8.4666662"
+         height="19.049999"
+         x="34.198368"
+         y="-484.05017" />
+    </g>
+    <g
+       id="g8"
+       transform="translate(17.298221,-4.8195858)">
+      <rect
+         style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2"
+         width="67.73333"
+         height="50.799999"
+         x="-97.034958"
+         y="-502.8071" />
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1"
+         width="67.73333"
+         height="16.933332"
+         x="-97.034958"
+         y="-519.74048" />
+    </g>
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round"
+       id="rect3"
+       width="12.7"
+       height="12.7"
+       x="32.081699"
+       y="-452.00711" />
+    <rect
+       style="fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round"
+       id="rect5"
+       width="2.1166666"
+       height="16.933332"
+       x="37.373367"
+       y="-541.49335" />
+    <rect
+       style="fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round"
+       id="rect5-2"
+       width="8.4666662"
+       height="4.2333331"
+       x="34.198368"
+       y="-524.56" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 3" />
+</svg>

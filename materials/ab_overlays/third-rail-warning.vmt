@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ab_overlays/third-rail-warning"
+	"$translucent" 1
+}

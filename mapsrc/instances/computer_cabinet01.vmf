@@ -1,0 +1,632 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "9672"
+	"mapversion" "4"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "16"
+	"bShow3DGrid" "0"
+}
+world
+{
+	"id" "1"
+	"mapversion" "4"
+	"classname" "worldspawn"
+	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxblobcount" "250"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_black_nofog"
+}
+entity
+{
+	"id" "560"
+	"classname" "env_sprite"
+	"angles" "0 0 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 10.625 69.0313"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "565"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"model" "models/props_office/computer_cabinet01.mdl"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"skin" "0"
+	"solid" "6"
+	"origin" "0 0 0"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3000]"
+	}
+}
+entity
+{
+	"id" "569"
+	"classname" "env_sprite"
+	"angles" "0 0 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 255 0"
+	"renderfx" "0"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 8.125 28.3125"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "573"
+	"classname" "env_sprite"
+	"angles" "0 359.969 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 255 0"
+	"renderfx" "12"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 8.3125 46.5938"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "577"
+	"classname" "env_sprite"
+	"angles" "0 359.969 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 255 0"
+	"renderfx" "12"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 6.78125 46.5938"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "581"
+	"classname" "env_sprite"
+	"angles" "0 359.969 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 255 0"
+	"renderfx" "12"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 4.9375 46.5938"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "585"
+	"classname" "env_sprite"
+	"angles" "0 359.969 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 255 0"
+	"renderfx" "12"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 3.375 46.5938"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "589"
+	"classname" "env_sprite"
+	"angles" "0 359.969 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 255 0"
+	"renderfx" "12"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 -4.84375 46.5938"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "593"
+	"classname" "env_sprite"
+	"angles" "0 359.969 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 255 0"
+	"renderfx" "12"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 -6.375 46.5938"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "597"
+	"classname" "env_sprite"
+	"angles" "0 359.969 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 255 0"
+	"renderfx" "12"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 -8.21875 46.5938"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "601"
+	"classname" "env_sprite"
+	"angles" "0 359.969 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 255 0"
+	"renderfx" "12"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 -9.78125 46.5938"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "605"
+	"classname" "env_sprite"
+	"angles" "0 0 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 0 0"
+	"renderfx" "0"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13.375 6.71875 71.3125"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "609"
+	"classname" "env_sprite"
+	"angles" "0 0 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "0 255 0"
+	"renderfx" "0"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 -12.4688 74"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "613"
+	"classname" "env_sprite"
+	"angles" "0 0 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "0 255 0"
+	"renderfx" "0"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 -12.4688 82.3125"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "617"
+	"classname" "env_sprite"
+	"angles" "0 0 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "0 255 0"
+	"renderfx" "0"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 -0.71875 82.3125"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "621"
+	"classname" "env_sprite"
+	"angles" "0 0 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "0 255 0"
+	"renderfx" "0"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 10.9688 82.3125"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "625"
+	"classname" "env_sprite"
+	"angles" "0 0 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "0 255 0"
+	"renderfx" "0"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 10.9688 74"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "629"
+	"classname" "env_sprite"
+	"angles" "0 0 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 255 0"
+	"renderfx" "12"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "14.375 -3.75 86.4063"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "633"
+	"classname" "env_sprite"
+	"angles" "0 0 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 255 0"
+	"renderfx" "12"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "14.375 -2.125 86.4063"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "637"
+	"classname" "env_sprite"
+	"angles" "0 0 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 255 0"
+	"renderfx" "12"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "14.375 0.875 86.4063"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "641"
+	"classname" "env_sprite"
+	"angles" "0 0 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 128 0"
+	"renderfx" "12"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "14.375 -0.75 86.4063"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "645"
+	"classname" "env_sprite"
+	"angles" "0 0 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 128 0"
+	"renderfx" "12"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "14.375 2.375 86.4063"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "649"
+	"classname" "env_sprite"
+	"angles" "0 0 0"
+	"disablereceiveshadows" "0"
+	"framerate" "10.0"
+	"glowproxysize" "1"
+	"hdrcolorscale" "0.7"
+	"model" "sprites/light_glow02.spr"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "9"
+	"scale" ".03125"
+	"spawnflags" "1"
+	"origin" "13 -12.125 69.0313"
+	editor
+	{
+		"color" "20 140 20"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Instance by MrGermandeutsch"
+		"logicalpos" "[0 3500]"
+	}
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordons
+{
+	"active" "0"
+}

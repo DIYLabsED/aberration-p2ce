@@ -24,6 +24,12 @@ Aberration maps and materials are licensed under the [CC BY 4.0](https://creativ
 
 <br>
 
+
+## Dependencies
+Aberration uses [EverythingPBR](https://steamcommunity.com/sharedfiles/filedetails/?id=3594428478) by `lenship2` and `Hazel Rose`. EverythingPBR is marked as a dependency of Aberration. However, if Steam does not prompt you to also subscribe to it, subscribe to it yourself.
+
+<br>
+
 ## Third-party assets redistributed with Aberration
 Aberration uses certain assets from the Portal Mapping and Modding community, and includes them in this repository. These assets are not covered by the CC BY 4.0 license. Most asset links link to posts in the `#custom-assets` channel in the PMaM Discord server. You may need to [join the server](https://discord.com/invite/pmam) and [head to the channel](https://discord.com/channels/830239808596606976/1352655119006699570) to view them.
 
@@ -197,5 +203,34 @@ Aberration uses certain assets from the Portal Mapping and Modding community, an
 
 <br>
 
-## Dependencies
-Aberration uses [EverythingPBR](https://steamcommunity.com/sharedfiles/filedetails/?id=3594428478) by `lenship2` and `Hazel Rose`. EverythingPBR is marked as a dependency of Aberration. However, if Steam does not prompt you to also subscribe to it, subscribe to it yourself.
+### SDE Dev Team
+#### [Stuff from Swelter](https://discord.com/channels/830239808596606976/1523638234347999384/1523638234347999384)
+
+<details>
+
+<br>
+
+<summary> File list </summary>
+
+```
+TODO
+```
+
+</details>
+
+<br>
+
+### MrGermandeutsch/Ashley Ashes
+#### [Stuff from Swelter](https://discord.com/channels/830239808596606976/1517886029145837578/1517886029145837578)
+
+<details>
+
+<br>
+
+<summary> File list </summary>
+
+```
+TODO
+```
+
+</details>

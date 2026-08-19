@@ -3,7 +3,7 @@ versioninfo
 	"editorextension" "strata"
 	"editorversion" "400"
 	"editorbuild" "10767"
-	"mapversion" "939"
+	"mapversion" "941"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -29,25 +29,25 @@ viewsettings
 		v0
 		{
 			"3d" "1"
-			"position" "(-203.006 -442.661 182.718)"
-			"angle" "[1.20002 85.1841 0]"
+			"position" "(217.97 -492.701 259.935)"
+			"angle" "[-44.3999 -74.8159 0]"
 		}
 		v1
 		{
 			"3d" "0"
-			"position" "(-231.933 -387.078 65536)"
-			"zoom" "9.41259"
+			"position" "(-199.988 -67.3573 0)"
+			"zoom" "0.294622"
 		}
 		v2
 		{
 			"3d" "0"
-			"position" "(65536 -796.36 187.625)"
+			"position" "(0 -796.36 187.625)"
 			"zoom" "6.53652"
 		}
 		v3
 		{
 			"3d" "0"
-			"position" "(-241.116 -65536 167.12)"
+			"position" "(-241.116 0 167.12)"
 			"zoom" "19.518"
 		}
 	}
@@ -55,7 +55,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "939"
+	"mapversion" "941"
 	"classname" "worldspawn"
 	"chaptertitle" "Train Ride"
 	"detailmaterial" "detail/detailsprites"
