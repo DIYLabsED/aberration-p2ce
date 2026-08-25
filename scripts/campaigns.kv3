@@ -33,10 +33,10 @@
 					]
 					meta = {	
 						thumbnail = ""
-						background_map = "ab_0_0_train_ride_revised"
+						background_map = ""
 						background_movie = ""
 						background_music = ""
-						background_image = ""
+						background_image = "menu-imgs/ab_0_0_r4_bg.png"
 						loading_screen = ""
 						transition_screen = ""
 					}
